@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "jest": "^29.5.0"
+  },
+  "name": "numbers",
+  "version": "1.0.0",
+  "main": "Number2.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
